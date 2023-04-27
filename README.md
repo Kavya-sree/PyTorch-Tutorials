@@ -3,6 +3,7 @@
 2. [Tensors](2_Tensors.ipynb)
 3. [Autograd](3_Autograd.ipynb)
 4. [Linear Regression](4_Linear_Regression_PyTorch.ipynb)
+5. [PyTorch Transforms](pytorch_transforms.ipynb)
 
 
 
