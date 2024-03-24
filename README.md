@@ -4,7 +4,7 @@
 3. [Autograd](3_Autograd.ipynb)
 4. [Linear Regression](4_Linear_Regression_PyTorch.ipynb)
 5. [PyTorch Transforms](5_pytorch_transforms.ipynb)
-6. [Feed-Forward Neural Network with MNIST](6_FeedForwardNN[MNIST].ipynb)
+6. [Feed-Forward Neural Network with MNIST](6_FeedForward[MNIST].ipynb)
 
 
 
